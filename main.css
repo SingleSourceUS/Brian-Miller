@@ -68,6 +68,10 @@ img.profile-pic {
 	overflow: auto;
 }
 
+.logo {
+	max-height:25px;
+}
+
 .col.is-1 {
 	flex: none;
 	width: 10%;
